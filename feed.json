@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "mooncast",
     "description": "",
-    "home_page_url": "http://mooncast.ir",
-    "feed_url": "http://mooncast.ir/feed.json",
+    "home_page_url": "https://mooncast.ir",
+    "feed_url": "https://mooncast.ir/feed.json",
     "user_comment": "",
     "author": {
         "name": "AMIR"
     },
     "items": [
         {
-            "id": "http://mooncast.ir/mooncast.html",
-            "url": "http://mooncast.ir/mooncast.html",
+            "id": "https://mooncast.ir/mooncast.html",
+            "url": "https://mooncast.ir/mooncast.html",
             "title": "mooncast",
             "summary": "سلام خوش آمدید به پادکست ماه ",
             "content_html": "<p style=\"text-align: right;\"><span style=\"font-family: tahoma, arial, helvetica, sans-serif; font-size: 18pt;\">سلام خوش آمدید به پادکست ماه</span></p>\n<p style=\"text-align: right;\"> </p>",
