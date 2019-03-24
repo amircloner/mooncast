@@ -3,7 +3,7 @@
     <title>mooncast</title>
     <link href="https://mooncast.ir/feed.xml" rel="self" />
     <link href="https://mooncast.ir" />
-    <updated>2019-03-24T09:38:31-07:00</updated>
+    <updated>2019-03-24T11:10:51-07:00</updated>
     <author>
         <name>AMIR</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://mooncast.ir/mooncast.html"/>
         <id>https://mooncast.ir/mooncast.html</id>
 
-        <updated>2019-03-24T08:39:56-07:00</updated>
+        <updated>2019-03-24T11:10:42-07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://mooncast.ir/media/posts/1/alexander-andrews-230122-unsplash.jpg" alt="" />
                     سلام خوش آمدید به پادکست ماه 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://mooncast.ir/media/posts/1/alexander-andrews-230122-unsplash.jpg" alt="" />
                 <p style="text-align: right;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 18pt;">سلام خوش آمدید به پادکست ماه</span></p>
 <p style="text-align: right;"> </p>
             ]]>
