@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>mooncast</title>
+    <link href="http://mooncast.ir/feed.xml" rel="self" />
+    <link href="http://mooncast.ir" />
+    <updated>2019-03-24T09:11:24-07:00</updated>
+    <author>
+        <name>AMIR</name>
+    </author>
+    <id>http://mooncast.ir</id>
+
+    <entry>
+        <title>mooncast</title>
+        <author>
+            <name>AMIR</name>
+        </author>
+        <link href="http://mooncast.ir/mooncast.html"/>
+        <id>http://mooncast.ir/mooncast.html</id>
+
+        <updated>2019-03-24T08:39:56-07:00</updated>
+            <summary>
+                <![CDATA[
+                    سلام خوش آمدید به پادکست ماه 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p style="text-align: right;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 18pt;">سلام خوش آمدید به پادکست ماه</span></p>
+<p style="text-align: right;"> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
